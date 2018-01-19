@@ -1,14 +1,9 @@
-[01:42:19] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[01:43:12] [Server thread/INFO]: Loading properties
-[01:43:12] [Server thread/INFO]: Default game type: SURVIVAL
-[01:43:12] [Server thread/INFO]: Generating keypair
-[01:43:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:43:39] [Server thread/INFO]: Preparing level "world"
-[01:45:18] [Server thread/INFO]: Preparing start region for level 0
-[01:45:19] [Server thread/INFO]: Done (99,972s)! For help, type "help" or "?"
-[01:45:38] [User Authenticator #1/INFO]: UUID of player Sky_Dragonsz is 9cf02971-303d-4329-b88c-fa56179bdd67
-[01:45:38] [Server thread/INFO]: Sky_Dragonsz[/127.0.0.1:8110] logged in with entity id 338 at (165.7105345556077, 101.0, 264.17787736708874)
-[01:45:38] [Server thread/INFO]: Sky_Dragonsz joined the game
-[01:45:38] [Server thread/INFO]: Sky_Dragonsz has just earned the achievement [You've been installed!]
-[01:47:21] [Server thread/INFO]: Sky_Dragonsz lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:47:21] [Server thread/INFO]: Sky_Dragonsz left the game
+[16:50:14] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[16:51:01] [Server thread/INFO]: Loading properties
+[16:51:01] [Server thread/INFO]: Default game type: SURVIVAL
+[16:51:01] [Server thread/INFO]: Generating keypair
+[16:51:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:51:24] [Server thread/INFO]: Preparing level "world"
+[16:51:36] [Server thread/INFO]: Preparing start region for level 0
+[16:51:37] [Server thread/INFO]: Done (12,815s)! For help, type "help" or "?"
+[16:53:54] [Server Shutdown Thread/INFO]: Stopping server
