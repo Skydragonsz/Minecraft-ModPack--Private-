@@ -1,6 +1,17 @@
 # Minecraft-ModPack-[Private]
 Sadboys modpack
 
+## How to update modpack
+Remove the following folders and replace them with the new folders in the Client folder.
+```
+advRocketry
+asm
+blueprints
+config
+data
+mods
+```
+
 # How to install this modpack
 ## Installing forge
 First you need to have the minecraft java edition already installed.
