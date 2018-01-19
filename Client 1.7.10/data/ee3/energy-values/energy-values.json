@@ -3,13 +3,13 @@
     "fluidstack": {
       "name": "cloud_seed"
     },
-    "energyValue": 0.258
+    "energyValue": 0.154
   },
   {
     "fluidstack": {
       "name": "cloud_seed_concentrated"
     },
-    "energyValue": 0.386
+    "energyValue": 0.282
   },
   {
     "fluidstack": {
@@ -388,7 +388,7 @@
     "itemstack": {
       "name": "minecraft:planks"
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
@@ -692,7 +692,7 @@
       "name": "minecraft:stone_slab",
       "metaValue": 7
     },
-    "energyValue": 512.0
+    "energyValue": 0.25
   },
   {
     "itemstack": {
@@ -734,7 +734,7 @@
     "itemstack": {
       "name": "minecraft:oak_stairs"
     },
-    "energyValue": 4.5
+    "energyValue": 0.002
   },
   {
     "itemstack": {
@@ -1209,27 +1209,27 @@
     "itemstack": {
       "name": "minecraft:quartz_block"
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "minecraft:quartz_block",
       "metaValue": 1
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "minecraft:quartz_block",
       "metaValue": 2
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "minecraft:quartz_stairs"
     },
-    "energyValue": 204.75
+    "energyValue": 0.75
   },
   {
     "itemstack": {
@@ -1813,7 +1813,7 @@
     "itemstack": {
       "name": "minecraft:bread"
     },
-    "energyValue": 13.6
+    "energyValue": 24.0
   },
   {
     "itemstack": {
@@ -2410,14 +2410,14 @@
       "name": "minecraft:potion",
       "metaValue": 8197
     },
-    "energyValue": 121.671
+    "energyValue": 60.0
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8198
     },
-    "energyValue": 200.189
+    "energyValue": 148.0
   },
   {
     "itemstack": {
@@ -2445,21 +2445,21 @@
       "name": "minecraft:potion",
       "metaValue": 8204
     },
-    "energyValue": 46.132
+    "energyValue": 45.037
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8206
     },
-    "energyValue": 125.396
+    "energyValue": 108.0
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8225
     },
-    "energyValue": 196.453
+    "energyValue": 148.0
   },
   {
     "itemstack": {
@@ -2473,35 +2473,35 @@
       "name": "minecraft:potion",
       "metaValue": 8228
     },
-    "energyValue": 138.044
+    "energyValue": 133.333
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8229
     },
-    "energyValue": 168.557
+    "energyValue": 148.0
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8233
     },
-    "energyValue": 146.099
+    "energyValue": 146.091
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8236
     },
-    "energyValue": 104.681
+    "energyValue": 103.111
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8257
     },
-    "energyValue": 76.151
+    "energyValue": 60.0
   },
   {
     "itemstack": {
@@ -2522,14 +2522,14 @@
       "name": "minecraft:potion",
       "metaValue": 8260
     },
-    "energyValue": 20.711
+    "energyValue": 16.0
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 8262
     },
-    "energyValue": 77.396
+    "energyValue": 60.0
   },
   {
     "itemstack": {
@@ -2557,7 +2557,7 @@
       "name": "minecraft:potion",
       "metaValue": 8270
     },
-    "energyValue": 52.465
+    "energyValue": 46.667
   },
   {
     "itemstack": {
@@ -2592,21 +2592,21 @@
       "name": "minecraft:potion",
       "metaValue": 16389
     },
-    "energyValue": 69.001
+    "energyValue": 48.444
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16390
     },
-    "energyValue": 130.73
+    "energyValue": 113.333
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16392
     },
-    "energyValue": 80.667
+    "energyValue": 80.642
   },
   {
     "itemstack": {
@@ -2620,28 +2620,28 @@
       "name": "minecraft:potion",
       "metaValue": 16394
     },
-    "energyValue": 69.638
+    "energyValue": 69.635
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16396
     },
-    "energyValue": 42.636
+    "energyValue": 42.272
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16398
     },
-    "energyValue": 102.243
+    "energyValue": 96.444
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16417
     },
-    "energyValue": 129.484
+    "energyValue": 113.333
   },
   {
     "itemstack": {
@@ -2655,28 +2655,28 @@
       "name": "minecraft:potion",
       "metaValue": 16420
     },
-    "energyValue": 110.015
+    "energyValue": 108.444
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16421
     },
-    "energyValue": 120.186
+    "energyValue": 113.333
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16425
     },
-    "energyValue": 112.7
+    "energyValue": 112.697
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16428
     },
-    "energyValue": 95.338
+    "energyValue": 94.815
   },
   {
     "itemstack": {
@@ -2690,7 +2690,7 @@
       "name": "minecraft:potion",
       "metaValue": 16449
     },
-    "energyValue": 53.828
+    "energyValue": 48.444
   },
   {
     "itemstack": {
@@ -2711,21 +2711,21 @@
       "name": "minecraft:potion",
       "metaValue": 16452
     },
-    "energyValue": 19.545
+    "energyValue": 16.0
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16454
     },
-    "energyValue": 54.243
+    "energyValue": 48.444
   },
   {
     "itemstack": {
       "name": "minecraft:potion",
       "metaValue": 16456
     },
-    "energyValue": 37.556
+    "energyValue": 37.547
   },
   {
     "itemstack": {
@@ -2746,7 +2746,7 @@
       "name": "minecraft:potion",
       "metaValue": 16462
     },
-    "energyValue": 44.748
+    "energyValue": 42.815
   },
   {
     "itemstack": {
@@ -2895,6 +2895,34 @@
   },
   {
     "itemstack": {
+      "name": "minecraft:enchanted_book",
+      "tagCompound": "{StoredEnchantments:[0:{lvl:4s,id:213s}]}"
+    },
+    "energyValue": 65656.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:enchanted_book",
+      "tagCompound": "{StoredEnchantments:[0:{lvl:3s,id:213s}]}"
+    },
+    "energyValue": 32888.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:enchanted_book",
+      "tagCompound": "{StoredEnchantments:[0:{lvl:1s,id:213s}]}"
+    },
+    "energyValue": 8312.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:enchanted_book",
+      "tagCompound": "{StoredEnchantments:[0:{lvl:2s,id:213s}]}"
+    },
+    "energyValue": 16504.0
+  },
+  {
+    "itemstack": {
       "name": "minecraft:comparator"
     },
     "energyValue": 293.0
@@ -2961,28 +2989,28 @@
       "name": "ThermalFoundation:Storage",
       "metaValue": 7
     },
-    "energyValue": 5764.5
+    "energyValue": 10.404
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:Storage",
       "metaValue": 8
     },
-    "energyValue": 1924.497
+    "energyValue": 9.468
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:Storage",
       "metaValue": 10
     },
-    "energyValue": 546.75
+    "energyValue": 9.135
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:Storage",
       "metaValue": 11
     },
-    "energyValue": 1266.75
+    "energyValue": 9.315
   },
   {
     "itemstack": {
@@ -3031,19 +3059,19 @@
     "itemstack": {
       "name": "appliedenergistics2:tile.BlockQuartz"
     },
-    "energyValue": 64.0
+    "energyValue": 0.015
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:tile.BlockQuartzPillar"
     },
-    "energyValue": 32.0
+    "energyValue": 0.007
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:tile.BlockQuartzChiseled"
     },
-    "energyValue": 32.0
+    "energyValue": 0.007
   },
   {
     "itemstack": {
@@ -3067,7 +3095,7 @@
     "itemstack": {
       "name": "appliedenergistics2:tile.BlockFluix"
     },
-    "energyValue": 68.0
+    "energyValue": 0.0
   },
   {
     "itemstack": {
@@ -3131,13 +3159,13 @@
     "itemstack": {
       "name": "appliedenergistics2:tile.BlockInscriber"
     },
-    "energyValue": 664.0
+    "energyValue": 596.0
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:tile.BlockCharger"
     },
-    "energyValue": 324.0
+    "energyValue": 256.0
   },
   {
     "itemstack": {
@@ -3149,43 +3177,43 @@
     "itemstack": {
       "name": "appliedenergistics2:tile.BlockQuantumLinkChamber"
     },
-    "energyValue": 1192.25
+    "energyValue": 1056.25
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:tile.BlockSpatialPylon"
     },
-    "energyValue": 196.0
+    "energyValue": 43.0
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:tile.BlockCondenser"
     },
-    "energyValue": 325.0
+    "energyValue": 257.0
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:tile.BlockEnergyAcceptor"
     },
-    "energyValue": 356.25
+    "energyValue": 288.25
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:tile.BlockVibrationChamber"
     },
-    "energyValue": 620.25
+    "energyValue": 552.25
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:tile.BlockQuartzGrowthAccelerator"
     },
-    "energyValue": 384.0
+    "energyValue": 299.0
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:tile.BlockEnergyCell"
     },
-    "energyValue": 356.25
+    "energyValue": 288.25
   },
   {
     "itemstack": {
@@ -3228,31 +3256,31 @@
     "itemstack": {
       "name": "appliedenergistics2:tile.FluixStairBlock"
     },
-    "energyValue": 17.0
+    "energyValue": 0.0
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:tile.QuartzStairBlock"
     },
-    "energyValue": 16.0
+    "energyValue": 0.004
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:tile.ChiseledQuartzStairBlock"
     },
-    "energyValue": 8.0
+    "energyValue": 0.002
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:tile.QuartzPillarStairBlock"
     },
-    "energyValue": 8.0
+    "energyValue": 0.002
   },
   {
     "itemstack": {
       "name": "ae2stuff:Grower"
     },
-    "energyValue": 3739.748
+    "energyValue": 3212.748
   },
   {
     "itemstack": {
@@ -3966,7 +3994,7 @@
     "itemstack": {
       "name": "chisel:autoChisel"
     },
-    "energyValue": 1025.5
+    "energyValue": 1024.75
   },
   {
     "itemstack": {
@@ -9856,105 +9884,105 @@
       "name": "chisel:oak_planks",
       "metaValue": 1
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 2
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 3
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 4
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 5
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 6
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 7
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 8
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 9
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 10
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 11
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 12
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 13
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 14
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "chisel:oak_planks",
       "metaValue": 15
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
@@ -10702,7 +10730,7 @@
       "name": "EnderIO:blockSolarPanel",
       "metaValue": 1
     },
-    "energyValue": 36136.56
+    "energyValue": 35454.227
   },
   {
     "itemstack": {
@@ -10720,7 +10748,7 @@
     "itemstack": {
       "name": "EnderIO:blockEnderIo"
     },
-    "energyValue": 3929.328
+    "energyValue": 2564.664
   },
   {
     "itemstack": {
@@ -10769,7 +10797,7 @@
     "itemstack": {
       "name": "EnderIO:blockFusedQuartz"
     },
-    "energyValue": 45.5
+    "energyValue": 0.167
   },
   {
     "itemstack": {
@@ -10783,7 +10811,7 @@
       "name": "EnderIO:blockFusedQuartz",
       "metaValue": 2
     },
-    "energyValue": 1581.5
+    "energyValue": 1536.167
   },
   {
     "itemstack": {
@@ -10797,7 +10825,7 @@
       "name": "EnderIO:blockFusedQuartz",
       "metaValue": 4
     },
-    "energyValue": 109.5
+    "energyValue": 64.167
   },
   {
     "itemstack": {
@@ -10883,7 +10911,7 @@
     "itemstack": {
       "name": "extracells:vibrantchamberfluid"
     },
-    "energyValue": 908.5
+    "energyValue": 840.5
   },
   {
     "itemstack": {
@@ -10907,7 +10935,7 @@
     "itemstack": {
       "name": "ExtraUtilities:endConstructor"
     },
-    "energyValue": 40172.8
+    "energyValue": 36078.8
   },
   {
     "itemstack": {
@@ -10965,7 +10993,7 @@
       "name": "ExtraUtilities:decorativeBlock1",
       "metaValue": 2
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
@@ -11035,7 +11063,7 @@
       "name": "ExtraUtilities:decorativeBlock1",
       "metaValue": 12
     },
-    "energyValue": 33390.8
+    "energyValue": 32846.8
   },
   {
     "itemstack": {
@@ -11255,112 +11283,112 @@
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks"
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 1
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 2
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 3
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 4
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 5
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 6
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 7
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 8
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 9
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 10
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 11
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 12
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 13
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 14
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:colorWoodPlanks",
       "metaValue": 15
     },
-    "energyValue": 3.0
+    "energyValue": 0.001
   },
   {
     "itemstack": {
@@ -11588,112 +11616,112 @@
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock"
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 1
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 2
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 3
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 4
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 5
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 6
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 7
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 8
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 9
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 10
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 11
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 12
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 13
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 14
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:color_quartzBlock",
       "metaValue": 15
     },
-    "energyValue": 136.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
@@ -12814,13 +12842,13 @@
     "itemstack": {
       "name": "ExtraUtilities:peaceful_table_top"
     },
-    "energyValue": 33804.0
+    "energyValue": 33792.004
   },
   {
     "itemstack": {
       "name": "ExtraUtilities:trading_post"
     },
-    "energyValue": 82005.0
+    "energyValue": 81984.01
   },
   {
     "itemstack": {
@@ -12938,7 +12966,7 @@
     "itemstack": {
       "name": "ExtraUtilities:spike_base_diamond"
     },
-    "energyValue": 38510.25
+    "energyValue": 38442.75
   },
   {
     "itemstack": {
@@ -12956,7 +12984,7 @@
     "itemstack": {
       "name": "ExtraUtilities:enderQuarry"
     },
-    "energyValue": 110927.195
+    "energyValue": 110383.195
   },
   {
     "itemstack": {
@@ -13064,7 +13092,7 @@
       "name": "ExtraUtilities:dark_portal",
       "metaValue": 2
     },
-    "energyValue": 9830.0
+    "energyValue": 9286.0
   },
   {
     "itemstack": {
@@ -13518,7 +13546,7 @@
       "name": "TConstruct:ToolStationBlock",
       "metaValue": 10
     },
-    "energyValue": 9.0
+    "energyValue": 6.001
   },
   {
     "itemstack": {
@@ -13571,7 +13599,7 @@
       "name": "TConstruct:CraftingSlab",
       "metaValue": 3
     },
-    "energyValue": 9.0
+    "energyValue": 6.001
   },
   {
     "itemstack": {
@@ -16561,7 +16589,7 @@
       "name": "ThermalExpansion:Glass",
       "metaValue": 1
     },
-    "energyValue": 78.375
+    "energyValue": 8.517
   },
   {
     "itemstack": {
@@ -18012,6 +18040,513 @@
   },
   {
     "itemstack": {
+      "name": "OpenBlocks:projector"
+    },
+    "energyValue": 1856.5
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:autoenchantmenttable"
+    },
+    "energyValue": 18136.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:donationStation"
+    },
+    "energyValue": 255.999
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockPillarQuartzWall"
+    },
+    "energyValue": 576.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:sprinkler"
+    },
+    "energyValue": 1764.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockChiseledQuartzWall"
+    },
+    "energyValue": 1152.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:itemDropper"
+    },
+    "energyValue": 1892.999
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "tagCompound": "{Uses:10.0f}"
+    },
+    "energyValue": 1468.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:15435844}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:15790320}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:12801229}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:14602026}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:14188952}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:11250603}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:11743532}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:6719955}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:8073150}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:4312372}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:4408131}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:5320730}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:2437522}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:2651799}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:3887386}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:imaginary",
+      "metaValue": 1,
+      "tagCompound": "{Uses:10.0f,Color:1973019}"
+    },
+    "energyValue": 1480.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:scaffolding"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:flag"
+    },
+    "energyValue": 36.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:elevator"
+    },
+    "energyValue": 1408.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:xpshower"
+    },
+    "energyValue": 832.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:canvas"
+    },
+    "energyValue": 29.778
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockMisc"
+    },
+    "energyValue": 576.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockMisc",
+      "metaValue": 1
+    },
+    "energyValue": 1152.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockMisc",
+      "metaValue": 2
+    },
+    "energyValue": 1152.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockMisc",
+      "metaValue": 5
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockMisc",
+      "metaValue": 6
+    },
+    "energyValue": 4096.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockMisc",
+      "metaValue": 9
+    },
+    "energyValue": 1328.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:beartrap"
+    },
+    "energyValue": 1344.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockQuartzSlab"
+    },
+    "energyValue": 576.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:xpdrain"
+    },
+    "energyValue": 864.0
+  },
+  {
+    "itemstack": {
+      "name": "tinker_io:SmartOutput"
+    },
+    "energyValue": 142.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockCoalGenerator"
+    },
+    "energyValue": 1398.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:ladder"
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:xpbottler"
+    },
+    "energyValue": 2048.333
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:bigbutton"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:target"
+    },
+    "energyValue": 296.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockPillarQuartzSlab"
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "tinker_io:WhatABeautifulBlock"
+    },
+    "energyValue": 36864.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockChiseledQuartzSlab"
+    },
+    "energyValue": 576.0
+  },
+  {
+    "itemstack": {
+      "name": "tinker_io:fuelInputMachine"
+    },
+    "energyValue": 1619.999
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintmixer"
+    },
+    "energyValue": 1472.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:elevator_rotating"
+    },
+    "energyValue": 1824.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:path"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:drawingtable"
+    },
+    "energyValue": 880.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:sky"
+    },
+    "energyValue": 470.5
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:sky",
+      "metaValue": 1
+    },
+    "energyValue": 506.5
+  },
+  {
+    "itemstack": {
+      "name": "waystones:waystone"
+    },
+    "energyValue": 12547.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:ropeladder"
+    },
+    "energyValue": 10.5
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:goldenegg"
+    },
+    "energyValue": 16416.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:village_highlighter"
+    },
+    "energyValue": 8235.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockPillarQuartzStair"
+    },
+    "energyValue": 576.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:fan"
+    },
+    "energyValue": 352.25
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockAtomicReconstructor"
+    },
+    "energyValue": 2480.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockQuartzWall"
+    },
+    "energyValue": 1152.0
+  },
+  {
+    "itemstack": {
+      "name": "TiConAutoToolStation:ats_autotoolstation"
+    },
+    "energyValue": 1969.999
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockQuartzStair"
+    },
+    "energyValue": 1152.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:blockPlacer"
+    },
+    "energyValue": 865.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:blockChiseledQuartzStair"
+    },
+    "energyValue": 1152.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:autoanvil"
+    },
+    "energyValue": 4021.333
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:vacuumhopper"
+    },
+    "energyValue": 2815.999
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:cannon"
+    },
+    "energyValue": 983.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:sponge"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:blockbreaker"
+    },
+    "energyValue": 25133.0
+  },
+  {
+    "itemstack": {
+      "name": "DraconicEvolution:potentiometer"
+    },
+    "energyValue": 2153.0
+  },
+  {
+    "itemstack": {
+      "name": "DraconicEvolution:teleporterStand"
+    },
+    "energyValue": 388.0
+  },
+  {
+    "itemstack": {
+      "name": "DraconicEvolution:xRayBlock"
+    },
+    "energyValue": 26625.0
+  },
+  {
+    "itemstack": {
+      "name": "cookingbook:fridge"
+    },
+    "energyValue": 1599.999
+  },
+  {
+    "itemstack": {
+      "name": "cookingbook:toolrack"
+    },
+    "energyValue": 560.0
+  },
+  {
+    "itemstack": {
+      "name": "cookingbook:cookingoven"
+    },
+    "energyValue": 1297.0
+  },
+  {
+    "itemstack": {
+      "name": "DraconicEvolution:rainSensor"
+    },
+    "energyValue": 577.5
+  },
+  {
+    "itemstack": {
       "name": "BuildCraft|Core:wrenchItem"
     },
     "energyValue": 788.0
@@ -18198,7 +18733,7 @@
     "itemstack": {
       "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz"
     },
-    "energyValue": 34.25
+    "energyValue": 0.25
   },
   {
     "itemstack": {
@@ -18282,7 +18817,7 @@
     "itemstack": {
       "name": "BuildCraft|Transport:item.buildcraftPipe.pipefluidsquartz"
     },
-    "energyValue": 50.25
+    "energyValue": 16.25
   },
   {
     "itemstack": {
@@ -18348,7 +18883,7 @@
     "itemstack": {
       "name": "BuildCraft|Transport:item.buildcraftPipe.pipepowerquartz"
     },
-    "energyValue": 66.25
+    "energyValue": 32.25
   },
   {
     "itemstack": {
@@ -18462,13 +18997,13 @@
     "itemstack": {
       "name": "Additional-Buildcraft-Objects:item.buildcraftPipe.pipeitemsextraction"
     },
-    "energyValue": 5.125
+    "energyValue": 2.126
   },
   {
     "itemstack": {
       "name": "Additional-Buildcraft-Objects:item.buildcraftPipe.pipeitemsenderextraction"
     },
-    "energyValue": 1029.125
+    "energyValue": 1026.126
   },
   {
     "itemstack": {
@@ -18486,7 +19021,7 @@
     "itemstack": {
       "name": "Additional-Buildcraft-Objects:MobBottle"
     },
-    "energyValue": 2.0
+    "energyValue": 1.0
   },
   {
     "itemstack": {
@@ -18518,7 +19053,7 @@
     "itemstack": {
       "name": "IC2:itemDust"
     },
-    "energyValue": 40.5
+    "energyValue": 1.01
   },
   {
     "itemstack": {
@@ -18588,7 +19123,7 @@
       "name": "IC2:itemIngot",
       "metaValue": 3
     },
-    "energyValue": 72.75
+    "energyValue": 1.017
   },
   {
     "itemstack": {
@@ -18880,35 +19415,35 @@
       "name": "ThermalFoundation:material",
       "metaValue": 39
     },
-    "energyValue": 640.5
+    "energyValue": 1.156
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 40
     },
-    "energyValue": 213.833
+    "energyValue": 1.052
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 41
     },
-    "energyValue": 40.5
+    "energyValue": 1.01
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 42
     },
-    "energyValue": 60.75
+    "energyValue": 1.015
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 43
     },
-    "energyValue": 140.75
+    "energyValue": 1.035
   },
   {
     "itemstack": {
@@ -18971,35 +19506,35 @@
       "name": "ThermalFoundation:material",
       "metaValue": 71
     },
-    "energyValue": 320.75
+    "energyValue": 1.078
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 72
     },
-    "energyValue": 107.416
+    "energyValue": 1.026
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 73
     },
-    "energyValue": 20.75
+    "energyValue": 1.005
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 74
     },
-    "energyValue": 30.875
+    "energyValue": 1.007
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 75
     },
-    "energyValue": 70.875
+    "energyValue": 1.017
   },
   {
     "itemstack": {
@@ -19027,28 +19562,28 @@
       "name": "ThermalFoundation:material",
       "metaValue": 103
     },
-    "energyValue": 35.639
+    "energyValue": 0.12
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 104
     },
-    "energyValue": 11.935
+    "energyValue": 0.114
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 106
     },
-    "energyValue": 3.431
+    "energyValue": 0.112
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 107
     },
-    "energyValue": 7.875
+    "energyValue": 0.113
   },
   {
     "itemstack": {
@@ -19076,28 +19611,28 @@
       "name": "ThermalFoundation:material",
       "metaValue": 135
     },
-    "energyValue": 1539.0
+    "energyValue": 260.312
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 136
     },
-    "energyValue": 685.664
+    "energyValue": 260.104
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 138
     },
-    "energyValue": 379.5
+    "energyValue": 260.028
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:material",
       "metaValue": 139
     },
-    "energyValue": 539.5
+    "energyValue": 260.068
   },
   {
     "itemstack": {
@@ -19168,13 +19703,13 @@
     "itemstack": {
       "name": "ThermalFoundation:armor.plateElectrum"
     },
-    "energyValue": 2566.0
+    "energyValue": 8.624
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.legsElectrum"
     },
-    "energyValue": 2245.25
+    "energyValue": 7.546
   },
   {
     "itemstack": {
@@ -19186,121 +19721,121 @@
     "itemstack": {
       "name": "ThermalFoundation:tool.swordElectrum"
     },
-    "energyValue": 645.5
+    "energyValue": 6.156
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.shovelElectrum"
     },
-    "energyValue": 328.75
+    "energyValue": 9.078
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.pickaxeElectrum"
     },
-    "energyValue": 970.25
+    "energyValue": 11.234
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.axeElectrum"
     },
-    "energyValue": 970.25
+    "energyValue": 11.234
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.shearsElectrum"
     },
-    "energyValue": 641.5
+    "energyValue": 2.156
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.fishingRodElectrum"
     },
-    "energyValue": 669.5
+    "energyValue": 30.156
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.sickleElectrum"
     },
-    "energyValue": 966.25
+    "energyValue": 7.234
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.bowElectrum"
     },
-    "energyValue": 681.5
+    "energyValue": 42.156
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.helmetInvar"
     },
-    "energyValue": 537.08
+    "energyValue": 5.13
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.plateInvar"
     },
-    "energyValue": 859.328
+    "energyValue": 8.208
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.legsInvar"
     },
-    "energyValue": 751.912
+    "energyValue": 7.182
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.swordInvar"
     },
-    "energyValue": 218.832
+    "energyValue": 6.052
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.shovelInvar"
     },
-    "energyValue": 115.416
+    "energyValue": 9.026
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.pickaxeInvar"
     },
-    "energyValue": 330.248
+    "energyValue": 11.078
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.axeInvar"
     },
-    "energyValue": 330.248
+    "energyValue": 11.078
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.hoeInvar"
     },
-    "energyValue": 222.832
+    "energyValue": 10.052
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.shearsInvar"
     },
-    "energyValue": 214.832
+    "energyValue": 2.052
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.fishingRodInvar"
     },
-    "energyValue": 242.832
+    "energyValue": 30.052
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.sickleInvar"
     },
-    "energyValue": 326.248
+    "energyValue": 7.078
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.bowInvar"
     },
-    "energyValue": 254.832
+    "energyValue": 42.052
   },
   {
     "itemstack": {
@@ -19384,7 +19919,7 @@
     "itemstack": {
       "name": "ThermalExpansion:transfuser"
     },
-    "energyValue": 2554.332
+    "energyValue": 423.52
   },
   {
     "itemstack": {
@@ -19411,7 +19946,7 @@
       "name": "ThermalExpansion:material",
       "metaValue": 3
     },
-    "energyValue": 384.75
+    "energyValue": 65.078
   },
   {
     "itemstack": {
@@ -19464,19 +19999,19 @@
     "itemstack": {
       "name": "ThermalFoundation:armor.bootsElectrum"
     },
-    "energyValue": 1283.0
+    "energyValue": 4.312
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:armor.helmetElectrum"
     },
-    "energyValue": 1603.75
+    "energyValue": 5.39
   },
   {
     "itemstack": {
       "name": "ThermalFoundation:tool.hoeElectrum"
     },
-    "energyValue": 649.5
+    "energyValue": 10.156
   },
   {
     "itemstack": {
@@ -19488,7 +20023,7 @@
     "itemstack": {
       "name": "ThermalFoundation:armor.bootsInvar"
     },
-    "energyValue": 429.664
+    "energyValue": 4.104
   },
   {
     "itemstack": {
@@ -19688,7 +20223,7 @@
       "name": "appliedenergistics2:item.ItemCrystalSeed",
       "metaValue": 1200
     },
-    "energyValue": 34.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
@@ -19959,28 +20494,28 @@
       "name": "appliedenergistics2:item.ItemMultiMaterial",
       "metaValue": 7
     },
-    "energyValue": 17.0
+    "energyValue": 0.0
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiMaterial",
       "metaValue": 8
     },
-    "energyValue": 17.0
+    "energyValue": 0.0
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiMaterial",
       "metaValue": 9
     },
-    "energyValue": 1058.0
+    "energyValue": 1024.0
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiMaterial",
       "metaValue": 11
     },
-    "energyValue": 34.5
+    "energyValue": 0.5
   },
   {
     "itemstack": {
@@ -20036,14 +20571,14 @@
       "name": "appliedenergistics2:item.ItemMultiMaterial",
       "metaValue": 41
     },
-    "energyValue": 1357.0
+    "energyValue": 1323.0
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiMaterial",
       "metaValue": 42
     },
-    "energyValue": 321.389
+    "energyValue": 312.889
   },
   {
     "itemstack": {
@@ -20070,490 +20605,490 @@
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart"
     },
-    "energyValue": 4.469
+    "energyValue": 2.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 1
     },
-    "energyValue": 3.969
+    "energyValue": 1.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 2
     },
-    "energyValue": 3.969
+    "energyValue": 1.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 3
     },
-    "energyValue": 3.969
+    "energyValue": 1.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 4
     },
-    "energyValue": 3.969
+    "energyValue": 1.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 5
     },
-    "energyValue": 5.469
+    "energyValue": 3.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 6
     },
-    "energyValue": 3.969
+    "energyValue": 1.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 7
     },
-    "energyValue": 5.469
+    "energyValue": 3.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 8
     },
-    "energyValue": 3.969
+    "energyValue": 1.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 9
     },
-    "energyValue": 5.469
+    "energyValue": 3.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 10
     },
-    "energyValue": 5.469
+    "energyValue": 3.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 11
     },
-    "energyValue": 111.469
+    "energyValue": 109.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 12
     },
-    "energyValue": 5.469
+    "energyValue": 3.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 13
     },
-    "energyValue": 5.469
+    "energyValue": 3.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 14
     },
-    "energyValue": 3.969
+    "energyValue": 1.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 15
     },
-    "energyValue": 5.469
+    "energyValue": 3.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 16
     },
-    "energyValue": 15.0
+    "energyValue": 10.75
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 20
     },
-    "energyValue": 10.469
+    "energyValue": 8.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 21
     },
-    "energyValue": 9.969
+    "energyValue": 7.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 22
     },
-    "energyValue": 9.969
+    "energyValue": 7.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 23
     },
-    "energyValue": 9.969
+    "energyValue": 7.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 24
     },
-    "energyValue": 9.969
+    "energyValue": 7.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 25
     },
-    "energyValue": 11.469
+    "energyValue": 9.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 26
     },
-    "energyValue": 9.969
+    "energyValue": 7.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 27
     },
-    "energyValue": 11.469
+    "energyValue": 9.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 28
     },
-    "energyValue": 9.969
+    "energyValue": 7.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 29
     },
-    "energyValue": 11.469
+    "energyValue": 9.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 30
     },
-    "energyValue": 11.469
+    "energyValue": 9.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 31
     },
-    "energyValue": 117.469
+    "energyValue": 115.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 32
     },
-    "energyValue": 11.469
+    "energyValue": 9.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 33
     },
-    "energyValue": 11.469
+    "energyValue": 9.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 34
     },
-    "energyValue": 9.969
+    "energyValue": 7.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 35
     },
-    "energyValue": 11.469
+    "energyValue": 9.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 36
     },
-    "energyValue": 63.0
+    "energyValue": 58.75
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 40
     },
-    "energyValue": 62.469
+    "energyValue": 60.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 41
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 42
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 43
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 44
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 45
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 46
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 47
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 48
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 49
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 50
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 51
     },
-    "energyValue": 169.469
+    "energyValue": 167.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 52
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 53
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 54
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 55
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 56
     },
-    "energyValue": 479.0
+    "energyValue": 474.75
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 60
     },
-    "energyValue": 62.469
+    "energyValue": 60.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 61
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 62
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 63
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 64
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 65
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 66
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 67
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 68
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 69
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 70
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 71
     },
-    "energyValue": 169.469
+    "energyValue": 167.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 72
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 73
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 74
     },
-    "energyValue": 61.969
+    "energyValue": 59.844
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 75
     },
-    "energyValue": 63.469
+    "energyValue": 61.344
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 76
     },
-    "energyValue": 479.0
+    "energyValue": 474.75
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 80
     },
-    "energyValue": 52.0
+    "energyValue": 47.75
   },
   {
     "itemstack": {
       "name": "appliedenergistics2:item.ItemMultiPart",
       "metaValue": 100
     },
-    "energyValue": 52.0
+    "energyValue": 47.75
   },
   {
     "itemstack": {
@@ -20637,6 +21172,12 @@
       "name": "AWWayofTime:bloodMagicBaseItems"
     },
     "energyValue": 768.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:infoBook"
+    },
+    "energyValue": 184.0
   },
   {
     "itemstack": {
@@ -21381,14 +21922,14 @@
       "name": "EnderIO:itemLiquidConduit",
       "metaValue": 1
     },
-    "energyValue": 19.171
+    "energyValue": 2.172
   },
   {
     "itemstack": {
       "name": "EnderIO:itemLiquidConduit",
       "metaValue": 2
     },
-    "energyValue": 449.484
+    "energyValue": 438.151
   },
   {
     "itemstack": {
@@ -21406,14 +21947,14 @@
     "itemstack": {
       "name": "EnderIO:itemMEConduit"
     },
-    "energyValue": 23.468
+    "energyValue": 14.968
   },
   {
     "itemstack": {
       "name": "EnderIO:itemMEConduit",
       "metaValue": 1
     },
-    "energyValue": 107.932
+    "energyValue": 73.932
   },
   {
     "itemstack": {
@@ -21652,13 +22193,13 @@
     "itemstack": {
       "name": "EnderIO:bucketCloud_seed"
     },
-    "energyValue": 259.0
+    "energyValue": 155.0
   },
   {
     "itemstack": {
       "name": "EnderIO:bucketCloud_seed_concentrated"
     },
-    "energyValue": 387.0
+    "energyValue": 283.0
   },
   {
     "itemstack": {
@@ -21676,7 +22217,7 @@
     "itemstack": {
       "name": "EnderIO:itemSoulVessel"
     },
-    "energyValue": 2233.5
+    "energyValue": 2097.501
   },
   {
     "itemstack": {
@@ -21758,7 +22299,7 @@
       "name": "extracells:part.base",
       "metaValue": 8
     },
-    "energyValue": 612.25
+    "energyValue": 544.25
   },
   {
     "itemstack": {
@@ -21770,21 +22311,21 @@
     "itemstack": {
       "name": "extracells:storage.casing"
     },
-    "energyValue": 8241.25
+    "energyValue": 8224.25
   },
   {
     "itemstack": {
       "name": "extracells:storage.casing",
       "metaValue": 1
     },
-    "energyValue": 81.5
+    "energyValue": 64.5
   },
   {
     "itemstack": {
       "name": "extracells:storage.casing",
       "metaValue": 2
     },
-    "energyValue": 2097.25
+    "energyValue": 2080.25
   },
   {
     "itemstack": {
@@ -22117,7 +22658,7 @@
     "itemstack": {
       "name": "harvestcraft:toastItem"
     },
-    "energyValue": 13.6
+    "energyValue": 24.0
   },
   {
     "itemstack": {
@@ -22195,7 +22736,7 @@
     "itemstack": {
       "name": "harvestcraft:toastsandwichItem"
     },
-    "energyValue": 27.2
+    "energyValue": 48.0
   },
   {
     "itemstack": {
@@ -22247,14 +22788,14 @@
       "name": "TConstruct:materials",
       "metaValue": 25
     },
-    "energyValue": 323.556
+    "energyValue": 2144.0
   },
   {
     "itemstack": {
       "name": "TConstruct:materials",
       "metaValue": 26
     },
-    "energyValue": 9486.224
+    "energyValue": 16768.0
   },
   {
     "itemstack": {
@@ -22594,7 +23135,7 @@
       "name": "Mekanism:OtherDust",
       "metaValue": 1
     },
-    "energyValue": 72.75
+    "energyValue": 1.017
   },
   {
     "itemstack": {
@@ -22787,7 +23328,7 @@
       "name": "witchery:ingredient",
       "metaValue": 92
     },
-    "energyValue": 1571.0
+    "energyValue": 1027.0
   },
   {
     "itemstack": {
@@ -22801,14 +23342,14 @@
       "name": "witchery:ingredient",
       "metaValue": 130
     },
-    "energyValue": 4996.5
+    "energyValue": 793.026
   },
   {
     "itemstack": {
       "name": "witchery:ingredient",
       "metaValue": 131
     },
-    "energyValue": 1836.167
+    "energyValue": 435.009
   },
   {
     "itemstack": {
@@ -22841,7 +23382,7 @@
     "itemstack": {
       "name": "witchery:potion"
     },
-    "energyValue": 2543.731
+    "energyValue": 441.994
   },
   {
     "itemstack": {
@@ -22871,7 +23412,7 @@
     "itemstack": {
       "name": "witchery:shelfcompass"
     },
-    "energyValue": 45988.5
+    "energyValue": 41785.027
   },
   {
     "itemstack": {
@@ -22895,25 +23436,25 @@
     "itemstack": {
       "name": "witchery:hunterhat"
     },
-    "energyValue": 9180.835
+    "energyValue": 2175.045
   },
   {
     "itemstack": {
       "name": "witchery:huntercoat"
     },
-    "energyValue": 14689.336
+    "energyValue": 3480.072
   },
   {
     "itemstack": {
       "name": "witchery:hunterlegs"
     },
-    "energyValue": 12853.169
+    "energyValue": 3045.063
   },
   {
     "itemstack": {
       "name": "witchery:hunterboots"
     },
-    "energyValue": 7344.668
+    "energyValue": 1740.036
   },
   {
     "itemstack": {
@@ -23239,5 +23780,1231 @@
       "name": "AWWayofTime:itemMailCatalogue"
     },
     "energyValue": 186.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush"
+    },
+    "energyValue": 56.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:11250603}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:11743532}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:15435844}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:15790320}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:12801229}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:14602026}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:14188952}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:2437522}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:2651799}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:3887386}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:1973019}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:6719955}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:8073150}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:4408131}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:4312372}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:paintBrush",
+      "tagCompound": "{color:5320730}"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemHoeEmerald"
+    },
+    "energyValue": 16392.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemChestObsidian"
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:hangglider"
+    },
+    "energyValue": 788.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemHelmQuartz"
+    },
+    "energyValue": 1440.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:pedometer"
+    },
+    "energyValue": 8336.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:generic"
+    },
+    "energyValue": 392.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:generic",
+      "metaValue": 1
+    },
+    "energyValue": 784.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:generic",
+      "metaValue": 2
+    },
+    "energyValue": 1828.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:generic",
+      "metaValue": 3
+    },
+    "energyValue": 832.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:generic",
+      "metaValue": 5
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:generic",
+      "metaValue": 6
+    },
+    "energyValue": 2176.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:generic",
+      "metaValue": 7
+    },
+    "energyValue": 778.668
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:generic",
+      "metaValue": 9
+    },
+    "energyValue": 2080.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:generic",
+      "metaValue": 10
+    },
+    "energyValue": 384.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:generic",
+      "metaValue": 11
+    },
+    "energyValue": 40.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemPickaxeQuartz"
+    },
+    "energyValue": 872.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemCrateKeeper"
+    },
+    "energyValue": 1344.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemSwordQuartz"
+    },
+    "energyValue": 580.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:cartographer"
+    },
+    "energyValue": 3488.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:emeraldPaxel"
+    },
+    "energyValue": 90148.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemAxeQuartz"
+    },
+    "energyValue": 872.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:cursor"
+    },
+    "energyValue": 336.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemBootsEmerald"
+    },
+    "energyValue": 32768.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemPhantomConnector"
+    },
+    "energyValue": 4868.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:quartzPaxel"
+    },
+    "energyValue": 3204.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:ironPaxel"
+    },
+    "energyValue": 2852.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:diamondPaxel"
+    },
+    "energyValue": 90148.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemHelmEmerald"
+    },
+    "energyValue": 40960.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemBootsObsidian"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:craneBackpack"
+    },
+    "energyValue": 4508.0
+  },
+  {
+    "itemstack": {
+      "name": "IguanaTweaksTConstruct:clayBucketWater"
+    },
+    "energyValue": 2.0
+  },
+  {
+    "itemstack": {
+      "name": "IguanaTweaksTConstruct:clayBucketLava"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemChestEmerald"
+    },
+    "energyValue": 65536.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:genericUnstackable"
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemShovelEmerald"
+    },
+    "energyValue": 8200.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemShovelObsidian"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:devnull"
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemPantsEmerald"
+    },
+    "energyValue": 57344.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemKnife"
+    },
+    "energyValue": 584.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemPickaxeEmerald"
+    },
+    "energyValue": 24584.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:obsidianPaxel"
+    },
+    "energyValue": 740.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemPickaxeObsidian"
+    },
+    "energyValue": 200.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemSwordObsidian"
+    },
+    "energyValue": 132.0
+  },
+  {
+    "itemstack": {
+      "name": "IguanaTweaksTConstruct:clayBucketFired"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemHoeObsidian"
+    },
+    "energyValue": 136.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemMisc"
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemMisc",
+      "metaValue": 1
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemMisc",
+      "metaValue": 2
+    },
+    "energyValue": 516.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemMisc",
+      "metaValue": 3
+    },
+    "energyValue": 68.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemMisc",
+      "metaValue": 4
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemMisc",
+      "metaValue": 5
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemMisc",
+      "metaValue": 6
+    },
+    "energyValue": 9600.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemMisc",
+      "metaValue": 10
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemMisc",
+      "metaValue": 11
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:emptyMap",
+      "tagCompound": "{Scale:1b}"
+    },
+    "energyValue": 8405.344
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:emptyMap",
+      "tagCompound": "{Scale:0b}"
+    },
+    "energyValue": 5290.672
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:epicEraser"
+    },
+    "energyValue": 936.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemPantsObsidian"
+    },
+    "energyValue": 448.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:pencilGlasses"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "IguanaTweaksTConstruct:clayBucketsTinkers",
+      "metaValue": 23
+    },
+    "energyValue": 257.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemBootsQuartz"
+    },
+    "energyValue": 1152.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:spongeonastick"
+    },
+    "energyValue": 80.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemPantsQuartz"
+    },
+    "energyValue": 2016.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:sonicglasses"
+    },
+    "energyValue": 1924.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:sleepingBag"
+    },
+    "energyValue": 320.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemShovelQuartz"
+    },
+    "energyValue": 296.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemChestQuartz"
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemChestToCrateUpgrade"
+    },
+    "energyValue": 295.996
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemHelmObsidian"
+    },
+    "energyValue": 320.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:luggage"
+    },
+    "energyValue": 8283.999
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:tastyClay"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:craneControl"
+    },
+    "energyValue": 1927.112
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemAxeObsidian"
+    },
+    "energyValue": 200.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 1
+    },
+    "energyValue": 150.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 2
+    },
+    "energyValue": 24.333
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 3
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 4
+    },
+    "energyValue": 132.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 5
+    },
+    "energyValue": 12.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 6
+    },
+    "energyValue": 78.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 7
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 8
+    },
+    "energyValue": 312.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 9
+    },
+    "energyValue": 53.333
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 10
+    },
+    "energyValue": 12.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 11
+    },
+    "energyValue": 272.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 12
+    },
+    "energyValue": 184.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 13
+    },
+    "energyValue": 112.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 14
+    },
+    "energyValue": 232.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 15
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 19
+    },
+    "energyValue": 65.333
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemFood",
+      "metaValue": 20
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:wrench"
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:crayonGlasses",
+      "tagCompound": "{Color:65535}"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:goldenEye",
+      "metaValue": 90
+    },
+    "energyValue": 4252.448
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:goldenEye",
+      "metaValue": 100
+    },
+    "energyValue": 3228.448
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemHoeQuartz"
+    },
+    "energyValue": 584.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:goldPaxel"
+    },
+    "energyValue": 22564.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:stonePaxel"
+    },
+    "energyValue": 47.0
+  },
+  {
+    "itemstack": {
+      "name": "waystones:warpStone"
+    },
+    "energyValue": 12352.0
+  },
+  {
+    "itemstack": {
+      "name": "OpenBlocks:squeegee"
+    },
+    "energyValue": 224.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:woodenPaxel"
+    },
+    "energyValue": 124.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemSwordEmerald"
+    },
+    "energyValue": 16388.0
+  },
+  {
+    "itemstack": {
+      "name": "waystones:warpScroll"
+    },
+    "energyValue": 525.037
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemCrafterOnAStick"
+    },
+    "energyValue": 49.333
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:itemAxeEmerald"
+    },
+    "energyValue": 24584.0
+  },
+  {
+    "itemstack": {
+      "name": "IguanaTweaksTConstruct:clayBucketUnfired"
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:paxelTFNickel"
+    },
+    "energyValue": 11300.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:paxelTFElectrum"
+    },
+    "energyValue": 47.858
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:paxelTFPlatinum"
+    },
+    "energyValue": 180260.0
+  },
+  {
+    "itemstack": {
+      "name": "ActuallyAdditions:paxelTFInvar"
+    },
+    "energyValue": 47.286
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemInkCartridge"
+    },
+    "energyValue": 12.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemKnife"
+    },
+    "energyValue": 5.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemOven"
+    },
+    "energyValue": 18440.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemChairWood"
+    },
+    "energyValue": 0.006
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemCurtains"
+    },
+    "energyValue": 2173.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemBasin"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemEnvelope"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemDishWasher"
+    },
+    "energyValue": 1137.5
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemPresentRed"
+    },
+    "energyValue": 592.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemBesideCabinet"
+    },
+    "energyValue": 128.005
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemFireAlarm"
+    },
+    "energyValue": 1152.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemShower"
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemBath"
+    },
+    "energyValue": 3.5
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemSuperSoapyWater"
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemTableWood"
+    },
+    "energyValue": 0.005
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemStonePath"
+    },
+    "energyValue": 0.25
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemToaster"
+    },
+    "energyValue": 564.5
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemCouch"
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "DraconicEvolution:enderArrow"
+    },
+    "energyValue": 1038.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemTableStone"
+    },
+    "energyValue": 5.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemPresentGreen"
+    },
+    "energyValue": 592.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemCoffeeTableWood"
+    },
+    "energyValue": 0.005
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemElectricFence"
+    },
+    "energyValue": 229.75
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemToilet"
+    },
+    "energyValue": 3.5
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemCookieJar"
+    },
+    "energyValue": 50.625
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemPlate"
+    },
+    "energyValue": 1.5
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemBin"
+    },
+    "energyValue": 2305.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemBlender"
+    },
+    "energyValue": 456.5
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemSoapyWater"
+    },
+    "energyValue": 77.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemCoolPack"
+    },
+    "energyValue": 4.5
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemWashingMachine"
+    },
+    "energyValue": 11.625
+  },
+  {
+    "itemstack": {
+      "name": "props:tool"
+    },
+    "energyValue": 97.5
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemFridge"
+    },
+    "energyValue": 16199.999
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemComputer"
+    },
+    "energyValue": 16160.125
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemShowerHead"
+    },
+    "energyValue": 771.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemMicrowave"
+    },
+    "energyValue": 1026.25
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemLamp"
+    },
+    "energyValue": 920.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemPackage"
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemPrinter"
+    },
+    "energyValue": 4677.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemBarStall"
+    },
+    "energyValue": 919.0
+  },
+  {
+    "itemstack": {
+      "name": "props:props",
+      "metaValue": 508
+    },
+    "energyValue": 45.5
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemBirdBath"
+    },
+    "energyValue": 5.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemTap"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemChairStone"
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemCoffeeTableStone"
+    },
+    "energyValue": 5.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemKitchenCabinet"
+    },
+    "energyValue": 582.999
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemCabinet"
+    },
+    "energyValue": 64.007
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemStereo"
+    },
+    "energyValue": 8704.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemWallCabinet"
+    },
+    "energyValue": 67.999
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemCounterDoored"
+    },
+    "energyValue": 777.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemMailBox"
+    },
+    "energyValue": 120.006
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemCeilingLight"
+    },
+    "energyValue": 400.25
+  },
+  {
+    "itemstack": {
+      "name": "props:clay"
+    },
+    "energyValue": 4.5
+  },
+  {
+    "itemstack": {
+      "name": "props:clay",
+      "metaValue": 1
+    },
+    "energyValue": 4.5
+  },
+  {
+    "itemstack": {
+      "name": "props:clay",
+      "metaValue": 2
+    },
+    "energyValue": 4.5
+  },
+  {
+    "itemstack": {
+      "name": "cookingbook:recipebook"
+    },
+    "energyValue": 120.0
+  },
+  {
+    "itemstack": {
+      "name": "cookingbook:recipebook",
+      "metaValue": 1
+    },
+    "energyValue": 16568.0
+  },
+  {
+    "itemstack": {
+      "name": "cookingbook:recipebook",
+      "metaValue": 3
+    },
+    "energyValue": 200.0
+  },
+  {
+    "itemstack": {
+      "name": "DraconicEvolution:safetyMatch"
+    },
+    "energyValue": 180.0
+  },
+  {
+    "itemstack": {
+      "name": "DraconicEvolution:safetyMatch",
+      "metaValue": 1000
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemSoap"
+    },
+    "energyValue": 76.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemCup"
+    },
+    "energyValue": 0.875
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemBlinds"
+    },
+    "energyValue": 18.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemOvenRangehood"
+    },
+    "energyValue": 2560.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemCounterSink"
+    },
+    "energyValue": 779.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemWhiteFence"
+    },
+    "energyValue": 10.0
+  },
+  {
+    "itemstack": {
+      "name": "cfm:ItemDoorBell"
+    },
+    "energyValue": 97.0
   }
 ]
