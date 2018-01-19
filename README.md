@@ -2,7 +2,8 @@
 Sadboys modpack
 
 ## How to update modpack
-Remove the following folders and replace them with the new folders in the Client folder.
+Remove the following folders and replace them with the new folders in the Client folder.<br>
+NOTE: You have to delete the folders and put the new one on its place!
 ```
 advRocketry
 asm
