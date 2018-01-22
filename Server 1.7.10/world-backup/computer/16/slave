@@ -1,0 +1,19 @@
+term.clear()
+term.setCursorPos(1,1)
+print("Linked!")
+rednet.open("right")
+while true do
+    local _, message = rednet.receive()
+    if turtle[message] then
+        turtle[message]()
+    elseif message == "1" or message == "2" or message == "3" or message == "4" or  message == "5" or message == "6" or message == "7" or message == "8" or message == "9" or message == "10" then     
+      turtle.select(tonumber(message))
+	elseif message == "Refuel" then
+		for i=1,16 do
+			turtle.select(i)
+			turtle.refuel(64)
+		end
+		turtle.select(1)
+    else
+    end
+end

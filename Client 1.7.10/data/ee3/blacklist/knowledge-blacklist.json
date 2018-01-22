@@ -216,6 +216,11 @@
   },
   {
     "orestack": {
+      "name": "oreNetherAdamantium"
+    }
+  },
+  {
+    "orestack": {
       "name": "oreNetherAmber"
     }
   },
@@ -266,12 +271,22 @@
   },
   {
     "orestack": {
+      "name": "oreNetherMagnesium"
+    }
+  },
+  {
+    "orestack": {
       "name": "oreNetherMithril"
     }
   },
   {
     "orestack": {
       "name": "oreNetherNickel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherNikolite"
     }
   },
   {
@@ -336,12 +351,22 @@
   },
   {
     "orestack": {
+      "name": "oreNetherTennantite"
+    }
+  },
+  {
+    "orestack": {
       "name": "oreNetherTin"
     }
   },
   {
     "orestack": {
       "name": "oreNetherTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherTungsten"
     }
   },
   {

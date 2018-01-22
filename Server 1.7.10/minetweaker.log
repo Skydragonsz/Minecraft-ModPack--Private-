@@ -1,0 +1,114 @@
+ERROR: system: AutoSpawner is already defined in that package
+ERROR: system: AutoSpawner is already defined in that package
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+ERROR: 2.2.2E-v7.zs:13: Could not resolve <liquid : biodiesel>
+ERROR: 2.2.2E-v7.zs:87: Could not resolve <ImmersiveEngineering : stoneDecoration : 3>
+ERROR: 2.2.2E-v7.zs:88: Could not resolve <ImmersiveEngineering : material : 6>
+ERROR: 2.2.2E-v7.zs:89: Could not resolve <ImmersiveEngineering : stoneDecoration : 3>
+ERROR: 2.2.2E-v7.zs:99: Could not resolve <Natura : Rare Tree : 2>
+ERROR: 2.2.2E-v7.zs:100: Could not resolve <Natura : Rare Tree : 2>
+ERROR: 2.2.2E-v7.zs:100: Could not resolve <Natura : planks : 8>
+ERROR: 2.2.2E-v7.zs:114: Could not resolve <liquid : bioethanol>
+ERROR: 2.2.2E-v7.zs:114: Could not resolve <liquid : biodiesel>
+ERROR: 2.2.2E-v7.zs:114: Could not resolve <liquid : biodiesel>
+ERROR: 2.2.2E-v7.zs:115: Could not resolve <liquid : biodiesel>
+ERROR: 2.2.2E-v7.zs:115: Could not resolve <liquid : bioethanol>
+ERROR: 2.2.2E-v7.zs:115: Could not resolve <liquid : bioethanol>
+ERROR: 2.2.2E-v7.zs:13 > could not find SemiFluidGenerator
+ERROR: Error executing 2.2.2E-v7.zs: 1
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at stanhebben.zenscript.type.natives.JavaMethod.rematch(JavaMethod.java:152)
+	at stanhebben.zenscript.expression.ExpressionCallVirtual.<init>(ExpressionCallVirtual.java:37)
+	at stanhebben.zenscript.type.ZenTypeAny.call(ZenTypeAny.java:201)
+	at stanhebben.zenscript.expression.Expression.call(Expression.java:81)
+	at stanhebben.zenscript.parser.expression.ParsedExpressionCall.compile(ParsedExpressionCall.java:42)
+	at stanhebben.zenscript.statements.StatementExpression.compile(StatementExpression.java:19)
+	at stanhebben.zenscript.ZenModule.compileScripts(ZenModule.java:124)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:153)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:624)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:555)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:166)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:256)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+INFO: Removing minetweaker command mfr
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+ERROR: 2.2.2E-v7.zs:13: Could not resolve <liquid : biodiesel>
+ERROR: 2.2.2E-v7.zs:87: Could not resolve <ImmersiveEngineering : stoneDecoration : 3>
+ERROR: 2.2.2E-v7.zs:88: Could not resolve <ImmersiveEngineering : material : 6>
+ERROR: 2.2.2E-v7.zs:89: Could not resolve <ImmersiveEngineering : stoneDecoration : 3>
+ERROR: 2.2.2E-v7.zs:99: Could not resolve <Natura : Rare Tree : 2>
+ERROR: 2.2.2E-v7.zs:100: Could not resolve <Natura : Rare Tree : 2>
+ERROR: 2.2.2E-v7.zs:100: Could not resolve <Natura : planks : 8>
+ERROR: 2.2.2E-v7.zs:114: Could not resolve <liquid : bioethanol>
+ERROR: 2.2.2E-v7.zs:114: Could not resolve <liquid : biodiesel>
+ERROR: 2.2.2E-v7.zs:114: Could not resolve <liquid : biodiesel>
+ERROR: 2.2.2E-v7.zs:115: Could not resolve <liquid : biodiesel>
+ERROR: 2.2.2E-v7.zs:115: Could not resolve <liquid : bioethanol>
+ERROR: 2.2.2E-v7.zs:115: Could not resolve <liquid : bioethanol>
+ERROR: 2.2.2E-v7.zs:13 > could not find SemiFluidGenerator
+ERROR: Error executing 2.2.2E-v7.zs: 1
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at stanhebben.zenscript.type.natives.JavaMethod.rematch(JavaMethod.java:152)
+	at stanhebben.zenscript.expression.ExpressionCallVirtual.<init>(ExpressionCallVirtual.java:37)
+	at stanhebben.zenscript.type.ZenTypeAny.call(ZenTypeAny.java:201)
+	at stanhebben.zenscript.expression.Expression.call(Expression.java:81)
+	at stanhebben.zenscript.parser.expression.ParsedExpressionCall.compile(ParsedExpressionCall.java:42)
+	at stanhebben.zenscript.statements.StatementExpression.compile(StatementExpression.java:19)
+	at stanhebben.zenscript.ZenModule.compileScripts(ZenModule.java:124)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:153)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:624)
+	at minetweaker.MineTweakerImplementationAPI$1.execute(MineTweakerImplementationAPI.java:82)
+	at minetweaker.MineTweakerImplementationAPI$19.execute(MineTweakerImplementationAPI.java:610)
+	at minetweaker.mc1710.server.MCServer$MCCommand.func_71515_b(MCServer.java:124)
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:94)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71333_ah(DedicatedServer.java:370)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:335)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+INFO: Removing minetweaker command mfr
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+INFO: Adding recipe for itemEngineBoost.name
+INFO: Adding recipe for itemCoolingCore.name
+INFO: Removing recipe for itemCoolingCore.name
+INFO: Removing recipe for itemEngineBoost.name
+INFO: Removing minetweaker command mfr
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+INFO: Translating itemEngineBoost.name to Engine Booster
+INFO: Adding recipe for Engine Booster
+INFO: Adding recipe for itemCoolingCore.name

@@ -1,0 +1,20 @@
+term.clear()
+term.setCursorPos(1,1)
+print("Select Input method?")
+term.setCursorPos(1,3)
+print("1)Keyboard")
+print("2)On Screen Keys")
+term.setCursorPos(1,5)
+print(">")
+term.setCursorPos(2,5)
+input = read()
+if input == "1" or input == "Keyboard" then
+	shell.run("Console1")
+elseif input == "2" or input == "On Screen Keys" then
+	shell.run("Console2")
+else
+	term.setCursorPos(1,6)
+	print("Invalid Command")
+	sleep(2)
+	shell.run("Console")
+end

@@ -1,0 +1,24 @@
+<GraviSuite:itemSimpleItem:6>.displayName = "Engine Booster";
+recipes.addShaped(<GraviSuite:itemSimpleItem:6>,
+[[<minecraft:glowstone_dust>,
+<IC2:itemPartAlloy:0>,
+<minecraft:glowstone_dust>],
+[<IC2:itemPartCircuitAdv>,
+<IC2:upgradeModule:0>,
+<IC2:itemPartCircuitAdv>],
+[<IC2:itemPartAlloy:0>,
+<IC2:reactorVentDiamond:1>,
+<IC2:itemPartAlloy:0>]
+]);
+
+recipes.addShaped(<GraviSuite:itemSimpleItem:2>,
+[[<IC2:reactorCoolantSix:1>,
+<IC2:reactorHeatSwitchDiamond:1>,
+<IC2:reactorCoolantSix:1>],
+[<IC2:reactorPlatingHeat>,
+<IC2:itemPartIridium>,
+<IC2:reactorPlatingHeat>],
+[<IC2:reactorCoolantSix:1>,
+<IC2:reactorHeatSwitchDiamond:1>,
+<IC2:reactorCoolantSix:1>]
+]);
