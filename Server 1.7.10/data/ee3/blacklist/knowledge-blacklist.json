@@ -16,6 +16,11 @@
   },
   {
     "orestack": {
+      "name": "oreApatite"
+    }
+  },
+  {
+    "orestack": {
       "name": "oreArdite"
     }
   },
