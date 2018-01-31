@@ -1,6 +1,6 @@
-world
-data
-crash-reports
-logs
-dynmap
-data
+/world
+/data
+/crash-reports
+/logs
+/dynmap
+/data
