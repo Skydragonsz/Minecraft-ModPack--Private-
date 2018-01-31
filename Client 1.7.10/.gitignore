@@ -1,0 +1,10 @@
+options.txt
+*.log
+/dynmap
+/saves
+usernamecache.json
+/resourcepacks
+/logs
+/advRocketry
+/blueprints
+/crash-reports
