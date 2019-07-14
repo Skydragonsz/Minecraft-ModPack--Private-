@@ -11,7 +11,7 @@ config
 mods
 ```
 
-# How to install this modpack
+# How to install this modpack [OLD]
 ## Installing forge
 First you need to have the minecraft java edition already installed.
 
@@ -59,6 +59,51 @@ Now all you need to do is play the game.
 But don't forget to select the new modpack on the playbutton
 
 ![Select the modpack](https://i.gyazo.com/90b576240ca276e9107ad61ac34d1296.png)
+
+
+# How to install this modpack [NEW]
+## Installing forge
+First you need to have the minecraft java edition already installed.
+
+Click on `forge-installer.jar` and open it with java.
+
+This window should appear. 
+
+![Forge installer](https://i.gyazo.com/1271ba11b8bd4bf660829f2ea89a225c.png)
+
+
+Leave the default settings and click on `OK`
+
+## Prepping minecraft client for the modpack
+Open your minecraft client and go to the last tab `Installations`.
+
+
+
+![Settings](https://i.gyazo.com/289b47f93ffb205d8f905b34fbf793b7.png)
+
+Click new and select release 1.7.10-Forge for the version!
+
+![Installation](https://i.gyazo.com/e894922d072c5983db59f264a42e2861.png)
+
+After that, change the `GAME DIRECTORY`to the the directory inside the folder you just downloaded. It has the name "Client 1.7.10"
+
+![Add new](https://i.gyazo.com/74007fd03c829bdefba9d98eaa1c032a.png)
+
+To let the client run smoothly, click `MORE OPTIONS` 
+![More options](https://i.gyazo.com/58ae4d983457a870fffbf8266d694d43.png)
+
+Change the JVM ARGUMENTS from 2G to 4G (more RAM allocation)
+![4G](https://i.gyazo.com/c73c157e3dddf21ce67b205c364a4c05.png)
+
+After that press create!
+
+
+## Play the game
+Now all you need to do is play the game. 
+
+But don't forget to select the new modpack on the playbutton
+
+![Select the modpack](https://i.gyazo.com/58ca806c7b4ec4104856bf6faa4e088f.png)
 
 
 
