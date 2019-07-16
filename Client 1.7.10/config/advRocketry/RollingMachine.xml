@@ -59,6 +59,38 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
+			<oreDict>ingotCopper</oreDict>
+		</input>
+		<output>
+			<itemStack>libVulpes:libVulpesproductplate 1 4</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotTin</oreDict>
+		</input>
+		<output>
+			<itemStack>libVulpes:libVulpesproductplate 1 5</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotSteel</oreDict>
+		</input>
+		<output>
+			<itemStack>libVulpes:libVulpesproductplate 1 6</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotAluminum</oreDict>
+		</input>
+		<output>
+			<itemStack>libVulpes:libVulpesproductplate 1 9</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
 			<oreDict>ingotIron</oreDict>
 		</input>
 		<output>
