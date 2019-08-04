@@ -47,6 +47,14 @@
 	</Recipe>
 	<Recipe timeRequired="80" power ="10">
 		<input>
+			<itemStack>advancedRocketry:alienWood</itemStack>
+		</input>
+		<output>
+			<itemStack>advancedRocketry:tile.planks 6</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="80" power ="10">
+		<input>
 			<itemStack>minecraft:log</itemStack>
 		</input>
 		<output>
